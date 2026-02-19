@@ -1,0 +1,16 @@
+active: true
+derived: false
+header: |
+  Another thing
+level: 1.1.2
+links:
+- SYS0001: GcsrtJwu_-e7nb9jRE9N5Ya7bYIbAF0aRpko1pWqtDU=
+- SYS0002: HPmkl_GyvNURFAJOM4TgNiqbnJRI3_sR7ToHD_Jh-gI=
+- SYS0003: TxQ3LCHZu6OS02GPgB44tFEt174Q1G9KPrNCrAcrUiY=
+normative: true
+ref: ''
+reviewed: 7D_0dI4Tb2GJvyVnjDT4IVDLoIVwhvSszjHBSn18c8c=
+text: |
+  **The localization system _must_ do `x` at `y`.**
+
+  Detailed comments about another thing and rationale for requirement.
