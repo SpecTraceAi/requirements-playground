@@ -6,6 +6,8 @@ level: 1.1.1
 links:
 - SYS0001: GcsrtJwu_-e7nb9jRE9N5Ya7bYIbAF0aRpko1pWqtDU=
 normative: true
+isReq: true
+test: ddd
 ref: ''
 references:
 - path: src/example.cpp
